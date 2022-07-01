@@ -1,0 +1,3 @@
+#At /etc/X11/Xorg.conf.d/00-keyboard.conf append
+Option "XkbOptions" "caps:swapescape"
+Option "XkbVariant" "intl"
